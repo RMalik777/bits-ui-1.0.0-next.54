@@ -21,7 +21,7 @@
 		"clsx": "^2.1.1",
 		"lucide-svelte": "^0.456.0",
 		"postcss": "^8.4.49",
-		"svelte": "^5.0.0",
+		"svelte": "^5.55.1",
 		"svelte-check": "^4.0.0",
 		"tailwind-merge": "^2.5.4",
 		"tailwind-variants": "^0.3.0",
